@@ -5,7 +5,7 @@
 
 body{
     width: 250px;
-    height: 450px;
+    height: 400px;
     overflow: hidden;
     align-items: center;
 	margin: 5px;
@@ -13,12 +13,11 @@ body{
 }
 
 h3{
-    
+    margin-top: 0px;
+    padding-top: 0px;
     text-align: center;
     font-size: 18px;
 }
-
-
 
 #footer{
     display: flex;
@@ -26,3 +25,6 @@ h3{
     padding: 5px;
 }
 
+#footer:hover{
+   /*change hover attributes here if you want(when the mouse is over the button)*/ 
+}
