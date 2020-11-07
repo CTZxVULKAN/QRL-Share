@@ -19,15 +19,13 @@
   
     "permissions": [
       "activeTab"
-      
     ],
   
-    "browser_action": {
+    "page_action": {
       "browser_style": true,
+      "show_matches": ["<all_urls>"],
       "default_icon": "Icons/Icon96px.png",
       "default_title": "QRL-Share",
       "default_popup": "popup/popup.html"
     }
-  
-  
   }

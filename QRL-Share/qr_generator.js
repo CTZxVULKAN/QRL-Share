@@ -11,6 +11,6 @@ if (browser.tabs && browser.tabs.query) {
 		});
 		el.className = "qrcode"
 		el.style = "width:100%; height: 100%";
-		document.querySelector('body').appendChild(el);
+		document.querySelector("#qrContainer").appendChild(el);
 	});
 }
