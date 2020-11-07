@@ -4,6 +4,7 @@
 }
 
 body{
+    align-items: center;
     width: 300px;
     height: 300px;
     padding: 5px;
@@ -15,13 +16,5 @@ h2{
 }
 
 #qrContainer{
-    display: block;
-    vertical-align: middle;
-    width: 85%;
-    height: 85%;
-   /* margin-top: 2.5%;*/
-    margin-left: 7.5%;
-
-    /*border: 15px solid #fff;
-    border-radius: 10px 40px;*/
+    /*Insert QR code adjustments here*/
 }
