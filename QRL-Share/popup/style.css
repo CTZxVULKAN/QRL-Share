@@ -1,9 +1,11 @@
 *{
-    background-color: #2d3436;
-    color: #ff7675;
+    background-color:  	#2C3A47;
+    color: #58B19F;
 }
 
 body{
+    width: 250px;
+    height: 450px;
     overflow: hidden;
     align-items: center;
 	margin: 5px;
@@ -13,8 +15,14 @@ body{
 h3{
     
     text-align: center;
+    font-size: 18px;
 }
 
-#qrContainer{
-    /*Insert QR code adjustments here*/
+
+
+#footer{
+    display: flex;
+    align-items: center;
+    padding: 5px;
 }
+
