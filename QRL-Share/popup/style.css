@@ -1,18 +1,18 @@
 *{
-    background-color: #222;
-    color: #fff;
+    background-color: #2d3436;
+    color: #ff7675;
 }
 
 body{
+    overflow: hidden;
     align-items: center;
-    width: 300px;
-    height: 300px;
-    padding: 5px;
+	margin: 5px;
+    padding: 5%;
 }
 
-h2{
-    margin-left: 10%;
-    text-align: left;
+h3{
+    
+    text-align: center;
 }
 
 #qrContainer{
