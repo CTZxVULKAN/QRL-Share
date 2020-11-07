@@ -10,17 +10,18 @@ body{
 }
 
 h2{
-    text-align: center;
+    margin-left: 10%;
+    text-align: left;
 }
 
 #qrContainer{
     display: block;
     vertical-align: middle;
-    width: 80%;
-    height: 80%;
-    margin-top: 2.5%;
-    margin-left: 10%;
+    width: 85%;
+    height: 85%;
+   /* margin-top: 2.5%;*/
+    margin-left: 7.5%;
 
-    border: 15px solid #fff;
-    border-radius: 10px 40px;
+    /*border: 15px solid #fff;
+    border-radius: 10px 40px;*/
 }
