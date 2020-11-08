@@ -1,0 +1,22 @@
+*{
+    background-color:  	#2C3A47;
+    color: #58B19F;
+}
+
+body{
+    width: 250px;
+    height: 390px;
+    overflow: hidden;
+    align-items: center;
+    margin: 5px;
+    padding: 5%;
+}
+
+h3{
+    
+    text-align: center;
+    font-size: 18px;
+}
+
+
+

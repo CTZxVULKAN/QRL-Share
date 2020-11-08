@@ -7,13 +7,13 @@
     "description": "Quicly share links among devices with qr codes.",
     
     "icons": {
-      "96": "Icons/Icon96px.png"
+      "96": "Icons/Extension-Icon/icon96px.png"
     },
 
     "content_scripts": [
         {
           "matches": ["<all_urls>"],
-          "js": ["qr_generator.js"]
+          "js": ["QRL-Share.js"]
         }
       ],
   
@@ -24,8 +24,8 @@
     "page_action": {
       "browser_style": true,
       "show_matches": ["<all_urls>"],
-      "default_icon": "Icons/Icon96px.png",
+      "default_icon": "Icons/Display-Icon/display-icon96px.png",
       "default_title": "QRL-Share",
-      "default_popup": "popup/popup.html"
+      "default_popup": "Extension/extension.html"
     }
   }
