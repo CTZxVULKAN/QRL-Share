@@ -29,3 +29,6 @@
 * **Libraries** - This folder contains all the **libraries** requried by the backend of the extension.
 * **manifest.json** - This is the file thats **brings together** the extension. It contains all the basic and mandatory **metadata** that is requried to **build** the extension , eg - **permissions**, **scripts** required by the extension,**version**, etc . DO NOT tamper with this file.
 * **QRL-Share.js** - **Backend** of the extension. This file is responsible for the **functionality** of the extension. 
+
+## Libraries Used
+* Kjua
