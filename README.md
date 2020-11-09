@@ -16,3 +16,4 @@
 > * This application **does not collect** any usage or crash reporting data **without** your **consent**.
 > * To **properly** run, this application needs **access your data for all websites**. This permission is **automatically granted** when you install the extension.
 > * We do not use any kind of cloud computing hence, all **proscessing** is done on **your device** and your **data is stored locally** on your device. We **cannot access** this.
+> * We may **update** our **privacy-policy** time to time . We will make sure to **inform** you about any **changes** in our policy.
