@@ -22,7 +22,7 @@
 
 ## Project Structure
 
-> * Extensiom
+> * Extension - This is the **frontend** folder for the extension. 
 > * Icons
 > * Libraries
 > * manifest.json
