@@ -1,5 +1,5 @@
 # QRL-Share
-https://img.shields.io/npm/v/kjua?label=kjua&style=for-the-badge
+![Kjua version](https://img.shields.io/npm/v/kjua?label=kjua&style=for-the-badge)
 
 >Firefox extension for quickly sharing web pages through qr codes.
 ![Project Banner](./Images/Repobanner.png)
