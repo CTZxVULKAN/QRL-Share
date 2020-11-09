@@ -55,4 +55,6 @@ git clone https://github.com/BiswasJishnu/QRL-Share.git
 
 3. Run firefox and go to about:deugiing.
 
-4. Select This FireFox > Load Temporary Addon > Select QRL-Share.js and the extension will run fine.
+4. Select This FireFox > Load Temporary Addon > Select **QRL-Share.js** and the extension will just run fine.
+
+5. If you come up with a really cool feature dont feel shy to add it to this repository
