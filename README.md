@@ -32,4 +32,4 @@
 * **QRL-Share.js** - **Backend** of the extension. This file is responsible for the **functionality** of the extension. 
 
 ## Libraries Used
-* Kjua
+*  [**Kjua.js**](https://larsjung.de/kjua/)
