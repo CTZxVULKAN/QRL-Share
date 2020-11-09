@@ -59,4 +59,7 @@ git clone https://github.com/BiswasJishnu/QRL-Share.git
 
 4. Select This FireFox > Load Temporary Addon > Select **QRL-Share.js** and the extension will just run fine.
 
-5. If you come up with a really cool feature dont feel shy to add it to this repository
+5. If you come up with a really cool feature dont feel shy to add it to this repository.
+
+6. Mozilla provides a really nice documentation on creating extensions for developers.
+   I recommend that you check out the documentation [here](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
