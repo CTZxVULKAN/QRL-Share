@@ -22,8 +22,8 @@
 
 ## Project Structure
 
-* Extension - This is the **frontend** folder for the extension. It contains **extension.html** and  **extension.css** which are responsible of how the extension is displayed.
-> * Icons
-> * Libraries
-> * manifest.json
-> * QRL-Share.js
+* **Extension** - This is the **frontend** folder for the extension. It contains **extension.html** and  **extension.css** which are responsible of how the extension is displayed.
+* **Icons** - This folder contains all the **icons** required by the extension to be displayed properly.
+* Libraries
+* manifest.json
+* QRL-Share.js
