@@ -22,7 +22,7 @@
 
 ## Project Structure
 
-> * Extension - This is the **frontend** folder for the extension. It contains **extension.html** and  **extension.css** which are responsible of how the extension is displayed.
+* Extension - This is the **frontend** folder for the extension. It contains **extension.html** and  **extension.css** which are responsible of how the extension is displayed.
 > * Icons
 > * Libraries
 > * manifest.json
