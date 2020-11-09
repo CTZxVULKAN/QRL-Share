@@ -32,5 +32,5 @@
 * **QRL-Share.js** - **Backend** of the extension. This file is responsible for the **functionality** of the extension. 
 
 ## Libraries Used
-*  [**Kjua.js**](https://larsjung.de/kjua/)
+* [**Kjua.js**](https://larsjung.de/kjua/)
 > * Kuja.js is a small javascript library which is used for dynamic generation of qr codes for modern browsers.
