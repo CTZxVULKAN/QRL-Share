@@ -7,4 +7,8 @@
 ## Screenshots
 ![Screenshot](./Images/Screenshot.png)
 
+<br>
+
 ## Privacy Policy
+
+**Information Collection and Use**
