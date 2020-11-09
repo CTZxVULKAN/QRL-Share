@@ -1,4 +1,6 @@
 # QRL-Share
+
+![release](https://img.shields.io/github/v/release/BiswasJishnu/QRL-Share?style=flat-square)
 ![License](https://img.shields.io/github/license/BiswasJishnu/QRL-Share?style=flat-square)
 ![Kjua version](https://img.shields.io/npm/v/kjua?label=kjua.js&style=flat-square)
 
