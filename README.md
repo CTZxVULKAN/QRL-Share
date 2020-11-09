@@ -33,3 +33,4 @@
 
 ## Libraries Used
 *  [**Kjua.js**](https://larsjung.de/kjua/)
+> * Kuja.js is a small javascript library which is used for dynamic generation of qr codes for modern browsers.
