@@ -39,4 +39,13 @@
 
 ## For Developers
 
-### * Testing extension 
+###  Testing extension
+
+Follow the steps to test the extension yourself.
+
+1. Clone this repository into your local working directory.
+
+``` html
+git clone https://github.com/BiswasJishnu/QRL-Share.git
+
+``` 
