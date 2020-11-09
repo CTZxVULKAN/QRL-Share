@@ -6,3 +6,5 @@
 
 ## Screenshots
 ![Screenshot](./Images/Screenshot.png)
+
+## Privacy Policy
