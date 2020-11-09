@@ -12,3 +12,4 @@
 ## Privacy Policy
 
 **Information Collection and Use**
+• This application does not provide an option for account creation therefore, we don't have any access to your data.
