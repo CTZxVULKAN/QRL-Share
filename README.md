@@ -49,8 +49,10 @@ Follow the steps to test the extension yourself.
 git clone https://github.com/BiswasJishnu/QRL-Share.git
 
 ``` 
-> * Note : **No need** to downaload any additional packages for testing this extension. This repository **already** contains all the packages required to run this extension.
+> * Note : **No need** to downaload any **additional packages** for testing this extension. This repository **already** contains all the **packages** required to run this extension.
 
 2. Tweak the extension, modify it to your liking.
 
 3. Run firefox and go to about:deugiing.
+
+4. Select This FireFox > Load Temporary Addon > Select QRL-Share.js and the extension will run fine.
