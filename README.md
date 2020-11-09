@@ -36,6 +36,7 @@
 > * Kuja.js is a small javascript library which is used for dynamic generation of qr codes in modern browsers.
 
 <br>
+
 ## For Developers
 
 * ###Testing extension 
