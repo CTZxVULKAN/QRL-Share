@@ -24,6 +24,6 @@
 
 * **Extension** - This is the **frontend** folder for the extension. It contains **extension.html** and  **extension.css** which are responsible of how the extension is displayed.
 * **Icons** - This folder contains all the **icons** required by the extension to be displayed properly.
-* Libraries
-* manifest.json
+* **Libraries** - This folder contains all the libraries requried by the backend of the extension.
+* **manifest.json** - This is the file thats **brings together** the extension. It contains all the data that is requried to **build** the extension , eg - **permissions**, **scripts** required by the extension etc. Do not tamper with this file.  
 * QRL-Share.js
