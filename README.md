@@ -1,6 +1,6 @@
 # QRL-Share
 ![License](https://img.shields.io/github/license/BiswasJishnu/QRL-Share?style=flat-square)
-![Kjua version](https://img.shields.io/npm/v/kjua?label=kjua)
+![Kjua version](https://img.shields.io/npm/v/kjua?style=flat-square)
 
 >Firefox extension for quickly sharing web pages through qr codes.
 ![Project Banner](./Images/Repobanner.png)
